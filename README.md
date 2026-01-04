@@ -80,6 +80,16 @@ The dataset represents customer-level bike sales data, where each row correspond
 
 <hr>
 
+## 🔍 Key Questions Answered
+
+1. Which customer demographics generate the highest bike sales?
+2. How do income levels influence bike purchasing behavior?
+3. Which age groups contribute the most to overall sales volume?
+4. Which regions consistently outperform others in bike sales?
+5. What customer segments should be prioritized for targeted marketing?
+
+<hr>
+
 <h2><b>Methodology</b></h2>
 <ol>
   <li>Imported raw bike sales data into Excel</li>
@@ -123,6 +133,15 @@ These insights can help businesses target marketing campaigns, optimize pricing 
 
 <hr>
 
+## 🚀 Business Impact
+
+- Enabled identification of high-value customer segments for focused marketing efforts
+- Provided insights to optimize regional sales strategies
+- Supported data-driven decision-making for revenue growth
+- Helped understand customer behavior trends to improve sales planning
+
+<hr>
+
 <h2><b>📊 Dashboard Preview</b></h2>
 <p>
 The Excel dashboard provides an interactive view of bike sales performance using slicers for region, education, marital status, and number of children.
@@ -130,6 +149,14 @@ The Excel dashboard provides an interactive view of bike sales performance using
 
 <img width="1167" height="843" alt="Screenshot 2026-01-03 205552" src="https://github.com/user-attachments/assets/47b04676-85ad-4fba-84e0-e9cd6d66a0e1" />
 
+
+<hr>
+
+## 📂 Files in Repository
+
+- `Bike_Sales_Analysis.xlsx` – Complete Excel workbook containing cleaned data, pivot tables, and dashboards  
+- `Screenshots/` – Visual snapshots of dashboards and key analysis outputs  
+- `README.md` – Project documentation and analysis overview
 
 <hr>
 
